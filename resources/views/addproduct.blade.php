@@ -74,9 +74,7 @@
     </a>
     
     <!-- Logout Modal-->
-    {{-- hii aviii --}}
-    {{-- Hello World --}}
-    {{-- hii aviii --}}
+    {{-- I love you Manti --}}
     <!-- Bootstrap core JavaScript-->
     <script src="{{url('/admin/vendor/jquery/jquery.min.js')}}"></script>
     <script src="{{url('/admin/vendor/bootstrap/js/bootstrap.bundle.min.js')}}"></script>
