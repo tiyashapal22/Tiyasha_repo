@@ -76,6 +76,7 @@
     <!-- Logout Modal-->
     
      {{-- Hello World --}}
+     {{-- hii aviii --}}
     <!-- Bootstrap core JavaScript-->
     <script src="{{url('/admin/vendor/jquery/jquery.min.js')}}"></script>
     <script src="{{url('/admin/vendor/bootstrap/js/bootstrap.bundle.min.js')}}"></script>
