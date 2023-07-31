@@ -9,7 +9,9 @@
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <meta name="description" content="">
     <meta name="author" content="">
-
+    
+    <!--Comment added from Avi-->
+    
     <title>SB Admin 2 - Blank</title>
 
     <!-- Custom fonts for this template-->
